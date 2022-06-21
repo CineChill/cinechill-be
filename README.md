@@ -1,1 +1,3 @@
-# NewsFeed From Facebook API v2
+# NewsFeed From Facebook BE
+
+Phiên bản API dùng PHP.
